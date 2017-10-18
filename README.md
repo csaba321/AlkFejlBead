@@ -6,4 +6,4 @@ Egy alkalmazás amiben ingatlanok bérlését, vásárlását végezhetjük el m
 
 ### Adatbázisok:
 
-####Magánszemély
+##Magánszemély
