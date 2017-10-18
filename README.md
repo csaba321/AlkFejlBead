@@ -10,7 +10,7 @@ Egy alkalmazás amiben ingatlanok bérlését, vásárlását végezhetjük el m
 * Vállalat: Név,Elérhetőségek(cím,e-mail,stb.),Azonosító
 * Ingatlanok(egyszerű): Cím,Bérlő,Bérlés ár,Eladási ár,Azonosító
 * Vállalati Ingatlanok: Cím,Funkcíó(iroda,raktár,stb.),Azonosító
-** Vállalati Ingatlanok: Azonosító,Bérlő,Terület,Ár #pl: "X épület","Y vállalat","2. szárny","Z Ft"
+ * Vállalati Ingatlanok: Azonosító,Bérlő,Terület,Ár #pl: "X épület","Y vállalat","2. szárny","Z Ft"
 
 ### Funkciók:
 
